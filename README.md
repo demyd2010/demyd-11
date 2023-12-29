@@ -83,8 +83,9 @@
       flex-wrap: wrap;
       justify-content: space-around;
       margin-top: 20px;
+    
     }
-     card {
+    .card {
       position: relative;
       width: 200px;
       height: 200px;
